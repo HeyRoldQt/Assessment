@@ -1,0 +1,8 @@
+1-7 Questions can be run using Node JS module. Kindly go to the directory where the files is then type 'node <name>.js'
+
+The questions that has a React, it can be run in React application just copy the code and add it in test React Application then
+try to use 'npm start' or 'yarn dev' if you are using yarn.
+
+the data from aggregate can be run in node js with database.
+
+the last numbers which are 14 and 15 are the json file. You can add this in a specific React Application the run 'npm start' or 'yarn dev' then navigate to the folder where the json file residing.
