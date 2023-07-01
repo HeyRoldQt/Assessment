@@ -1,0 +1,25 @@
+{
+  "_id": "5fda1a62334d53138bf54321",
+  "title": "Bookstore",
+  "location": "National Book Store",
+  "books": [
+    {
+      "_id": "5fda1a62334d53138bf54210",
+      "title": "Noli Me Tangere",
+      "author": "Jose Rizal",
+      "publicationYear": 1925
+    },
+    {
+      "_id": "5fda1a62334d53138bf54211",
+      "title": "Penduko",
+      "author": "IDK",
+      "publicationYear": 1960
+    },
+    {
+      "_id": "5fda1a62334d53138bf54212",
+      "title": "1984",
+      "author": "George Orwell",
+      "publicationYear": 1949
+    }
+  ]
+}
